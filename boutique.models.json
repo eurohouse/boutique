@@ -5,7 +5,7 @@
         "sizes": "76-51-86", "nsfw": "true",
         "shoe_size": 10.5, "country": "EU",
         "birthday": "May 4, 1929",
-        "language":
+        "index": "2", "language":
         {
             "RU": { "title": "Одри Хепберн" }
         }
@@ -38,7 +38,7 @@
         "sizes": "81-64-89", "nsfw": "true",
         "shoe_size": 8, "country": "US",
         "birthday": "May 8, 1992",
-        "language":
+        "index": "0,2", "language":
         {
             "RU": { "title": "Оливия Калпо" }
         }
@@ -47,7 +47,7 @@
     {
         "country": "US", "nsfw": "true",
         "maison": "https://www.eva-darling.com",
-        "language":
+        "index": "0,2", "language":
         {
             "RU": { "title": "Ева Дарлин" }
         }
