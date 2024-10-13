@@ -94,8 +94,7 @@
     },
     "European Café Culture":
     {
-        "country": "EU",
-        "insignia": "Coffee",
+        "country": "EU", "insignia": "Coffee",
         "maison": "https://coffeeaffection.com/european-coffee-culture",
         "memoir": "In comparison to how coffee is consumed in the United States, Europe still knows how to savor it. It is not a continent that takes kindly to pouring fresh brew into a Styrofoam or paper cup. For Europe, it is not merely about the product, that is the beverage. It’s about an experience. We will see that it is every bit as much about the coffee house itself as it is about how the coffee is brewed and consumed.",
         "language":
@@ -109,8 +108,7 @@
     },
     "Viennese Coffee House Culture":
     {
-        "country": "AT",
-        "insignia": "TheLady",
+        "country": "AT", "insignia": "AustroHungary",
         "maison": "https://www.unesco.at/en/culture/intangible-cultural-heritage/national-inventory/news-1/article/viennese-coffee-house-culture",
         "memoir": "The story of the Viennese coffeehouse began near the end of the 17th century and was closely tied to the Turkish siege of the city. Vienna’s first coffeehouse was established by the Armenian spy Deodato, who was entrusted with brewing coffee for the Habsburg court in Vienna. In 1720, Café Kramer, on the Graben, was the first coffeehouse to offer newspapers for their customers to peruse.",
         "language":
@@ -124,8 +122,7 @@
     },
     "Café Pouchkine":
     {
-        "country": "RU",
-        "insignia": "ThePushkin",
+        "country": "RU", "insignia": "Pushkin",
         "maison": "https://www.parismarais.com/en/cafe-pouchkine.html",
         "memoir": "Created by Andrey Dellos, Café Pouchkine is a must taste destination of the Russian and Parisian capital. Dedicated to the Russian and French noble cuisine, it is today a mythical place recognized in the world. Opened in December 2013, the Café Pouchkine located Places des Vosges is a space dedicated to glutonny where the elegant creations of the pastry chef Damien Piscioneri are presented. In tribute to charm and to the Russian elegance, pastries at Café Pouchkine are small treasures with the soft Slavic accents. Sophistication, elegance, balance of flavours and textures are the keywords of our creations. Guaranteed pleasure and change of scenery !",
         "language":
