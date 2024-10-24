@@ -49,7 +49,9 @@
     },
     "Tiffany Haddish":
     {
-        "country": "US", "nsfw": "true",
+        "height": 1.67, "weight": 59,
+        "sizes": "84-66-81", "nsfw": "true",
+        "shoe_size": 8, "country": "US", 
         "birthday": "December 3, 1979",
         "language": {
             "RU": { "title": "Тиффани Хаддиш" }
