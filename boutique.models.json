@@ -27,15 +27,6 @@
             "RU": { "title": "Ева Дарлин" }
         }
     },
-    "Caila Quinn":
-    {
-        "height": 1.67, "nsfw": "true",
-        "shoe_size": 6, "country": "US",
-        "birthday": "December 10, 1991",
-        "language": {
-            "RU": { "title": "Кайла Куинн" }
-        }
-    },
     "Olivia Culpo":
     {
         "height": 1.66, "weight": 52,
@@ -88,11 +79,20 @@
     },
     "Elena Gheorghe":
     {
-        "height": 1.6, "nsfw": "true",
+        "height": 1.6, "weight": "50", "nsfw": "true",
         "shoe_size": 7.5, "country": "RO",
         "birthday": "July 30, 1985",
         "language": {
             "RU": { "title": "Елена Георге" }
+        }
+    },
+    "Caila Quinn":
+    {
+        "height": 1.67, "nsfw": "true",
+        "shoe_size": 6, "country": "US",
+        "birthday": "December 10, 1991",
+        "language": {
+            "RU": { "title": "Кайла Куинн" }
         }
     },
     "European Café Culture":
