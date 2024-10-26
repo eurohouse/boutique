@@ -27,6 +27,15 @@
             "RU": { "title": "Ева Дарлин" }
         }
     },
+    "Caila Quinn":
+    {
+        "height": 1.67, "nsfw": "true",
+        "shoe_size": 6, "country": "US",
+        "birthday": "December 10, 1991",
+        "language": {
+            "RU": { "title": "Кайла Куинн" }
+        }
+    },
     "Olivia Culpo":
     {
         "height": 1.66, "weight": 52,
