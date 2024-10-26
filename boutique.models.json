@@ -19,14 +19,12 @@
             "RU": { "title": "Виктория Джастис" }
         }
     },
-    "Ashley Graham":
+    "Eva Darling":
     {
-        "height": 1.75, "weight": 85,
-        "sizes": "107-96-117", "nsfw": "true",
-        "shoe_size": 10, "country": "US",
-        "birthday": "October 30, 1987",
+        "country": "US", "nsfw": "true",
+        "maison": "https://www.eva-darling.com",
         "language": {
-            "RU": { "title": "Эшли Грэм" }
+            "RU": { "title": "Ева Дарлин" }
         }
     },
     "Olivia Culpo":
@@ -39,14 +37,6 @@
             "RU": { "title": "Оливия Калпо" }
         }
     },
-    "Eva Darling":
-    {
-        "country": "US", "nsfw": "true",
-        "maison": "https://www.eva-darling.com",
-        "language": {
-            "RU": { "title": "Ева Дарлин" }
-        }
-    },
     "Tiffany Haddish":
     {
         "height": 1.67, "weight": 59,
@@ -55,6 +45,26 @@
         "birthday": "December 3, 1979",
         "language": {
             "RU": { "title": "Тиффани Хаддиш" }
+        }
+    },
+    "Ashley Graham":
+    {
+        "height": 1.75, "weight": 85,
+        "sizes": "107-96-117", "nsfw": "true",
+        "shoe_size": 10, "country": "US",
+        "birthday": "October 30, 1987",
+        "language": {
+            "RU": { "title": "Эшли Грэм" }
+        }
+    },
+    "Dua Lipa":
+    {
+        "height": 1.73, "weight": 61,
+        "sizes": "81-64-89", "nsfw": "true",
+        "shoe_size": 8.5, "country": "GB",
+        "birthday": "August 22, 1995",
+        "language": {
+            "RU": { "title": "Дуа Липа" }
         }
     },
     "Rosie Huntington-Whiteley":
@@ -74,16 +84,6 @@
         "birthday": "July 30, 1985",
         "language": {
             "RU": { "title": "Елена Георге" }
-        }
-    },
-    "Dua Lipa":
-    {
-        "height": 1.73, "weight": 61,
-        "sizes": "81-64-89", "nsfw": "true",
-        "shoe_size": 8.5, "country": "GB",
-        "birthday": "August 22, 1995",
-        "language": {
-            "RU": { "title": "Дуа Липа" }
         }
     },
     "European Café Culture":
