@@ -9,13 +9,14 @@
             "RU": { "title": "Одри Хепберн" }
         }
     },
-    "Vittoria di Savoia":
+    "Amber Heard":
     {
-        "height": 1.73, "nsfw": "true",
-        "shoe_size": 39, "country": "IT",
-        "birthday": "December 28, 2003",
+        "height": 1.7, "weight": 55,
+        "sizes": "81-61-86", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "April 22, 1986",
         "language": {
-            "RU": { "title": "Виктория Савойская" }
+            "RU": { "title": "Амбер Хёрд" }
         }
     },
     "Victoria Justice":
@@ -66,6 +67,15 @@
             "RU": { "title": "Эшли Грэм" }
         }
     },
+    "Vittoria di Savoia":
+    {
+        "height": 1.73, "nsfw": "true",
+        "shoe_size": 39, "country": "IT",
+        "birthday": "December 28, 2003",
+        "language": {
+            "RU": { "title": "Виктория Савойская" }
+        }
+    },
     "Dua Lipa":
     {
         "height": 1.73, "weight": 61,
@@ -74,6 +84,15 @@
         "birthday": "August 22, 1995",
         "language": {
             "RU": { "title": "Дуа Липа" }
+        }
+    },
+    "Caila Quinn":
+    {
+        "height": 1.67, "weight": 60, "nsfw": "true",
+        "shoe_size": 6, "country": "US",
+        "birthday": "December 10, 1991",
+        "language": {
+            "RU": { "title": "Кайла Куинн" }
         }
     },
     "Rosie Huntington-Whiteley":
@@ -93,15 +112,6 @@
         "birthday": "July 30, 1985",
         "language": {
             "RU": { "title": "Елена Георге" }
-        }
-    },
-    "Caila Quinn":
-    {
-        "height": 1.67, "nsfw": "true",
-        "shoe_size": 6, "country": "US",
-        "birthday": "December 10, 1991",
-        "language": {
-            "RU": { "title": "Кайла Куинн" }
         }
     },
     "European Café Culture":
