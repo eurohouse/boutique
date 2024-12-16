@@ -1,9 +1,7 @@
 {
-    "000":
-    {
+    "000": {
         "title": "[semester] Collection [years]",
-        "language":
-        {
+        "language": {
             "CH": "La Boutique Haute Couture",
             "RU": "Коллекция [semester] [years]",
             "JP": "ファッションウィーク",
@@ -12,11 +10,9 @@
             "AE": "الولايات المتحدة الأمريكية"
         }
     },
-    "001":
-    {
+    "001": {
         "title": "The Austrian Coffee House Story",
-        "language":
-        {
+        "language": {
             "CH": "La Boutique Ristorante",
             "RU": "Австрийский кофейный дом",
             "JP": "ウィーンのカフェへのツアー",
@@ -25,11 +21,9 @@
             "AE": "جولة كبيرة إلى مقهى فيينا"
         }
     },
-    "002":
-    {
+    "002": {
         "title": "Breakfast At Tiffany's Blue Box",
-        "language":
-        {
+        "language": {
             "CH": "La Boutique de Tiffany",
             "RU": "Завтрак у Тиффани в Blue Box",
             "JP": "ティファニーのブルーボックスで朝食を",
