@@ -1,11 +1,11 @@
 {
     "000":
     {
-        "title": "[semester] Collection [year]",
+        "title": "[semester] Collection [years]",
         "language":
         {
             "CH": "La Boutique Haute Couture",
-            "RU": "Коллекция [semester] [year]",
+            "RU": "Коллекция [semester] [years]",
             "JP": "ファッションウィーク",
             "KR": "[year]（[quarter]）뉴욕 패션위크",
             "CN": "[year]（[quarter]）纽约时装周",
