@@ -138,6 +138,18 @@
             }
         }
     },
+    "Gordon Ramsay Wines":
+    {
+        "country": "GB", "insignia": "Wine",
+        "maison": "https://www.gordonramsay.com",
+        "memoir": "\"Running a 3 Michelin star restaurant for over 20 years means I have had the joy of tasting some of the finest wines in the world. Wine making has always fascinated me; it’s a magical process where tradition, passion, and science are blended together and captured in one stunning bottle.\"",
+        "language": {
+            "RU": {
+                "title": "Вина от шеф-повара Гордона Рамзая",
+                "memoir": "«Управление рестораном, отмеченным тремя звездами Мишлен, на протяжении более 20 лет дало мне возможность попробовать одни из лучших вин в мире. Виноделие всегда завораживало меня; это волшебный процесс, в котором традиции, страсть и наука смешиваются и заключаются в одной потрясающей бутылке»."
+            }
+        }
+    },
     "European Café Culture":
     {
         "country": "EU", "insignia": "Coffee",
