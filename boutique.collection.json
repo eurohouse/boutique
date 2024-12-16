@@ -1,11 +1,11 @@
 {
     "000":
     {
-        "title": "New York Fashion Week [quarter] [year]",
+        "title": "[semester] Collection [year]",
         "language":
         {
             "CH": "La Boutique Haute Couture",
-            "RU": "Неделя моды в Нью-Йорке [quarter] [year]",
+            "RU": "Коллекция [quarter] [year]",
             "JP": "ファッションウィーク",
             "KR": "[year]（[quarter]）뉴욕 패션위크",
             "CN": "[year]（[quarter]）纽约时装周",
