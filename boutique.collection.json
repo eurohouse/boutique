@@ -23,6 +23,7 @@
         "title": "Restaurant Gordon Ramsay",
         "language": {
             "CH": "La Boutique Ristorante",
+            "GR": "Εστιατόριο Γκόρντον Ράμσεϊ",
             "RU": "Ресторан Гордон Рамзи",
             "UA": "Ресторан Гордон Рамзі",
             "BY": "Рэстаран Гордан Рамзі",
@@ -38,14 +39,22 @@
         }
     },
     "002": {
-        "title": "Breakfast At Tiffany's Blue Box",
+        "title": "Vogue Magazine [month] [year]",
         "language": {
-            "CH": "La Boutique de Tiffany",
-            "RU": "Завтрак у Тиффани в Blue Box",
-            "JP": "ティファニーのブルーボックスで朝食を",
-            "KR": "티파니 앳 더 블루 박스에서 아침을",
-            "CN": "蓝盒子蒂凡尼的早餐",
-            "AE": "الإفطار في تيفاني في الصندوق الأزرق"
+            "CH": "La Boutique Lifestyle",
+            "GR": "Περιοδικό Μόδα [month] [year]",
+            "RU": "Журнал Vogue [month] [year]",
+            "UA": "Журнал Vogue [month] [year]",
+            "BY": "Часопіс Vogue [month] [year]",
+            "JP": "ヴォーグ誌 [month] [year]",
+            "KR": "보그 매거진 [month] [year]",
+            "CN": "时尚杂志 [month] [year]",
+            "AE": "[month] [year] مجلة فوج",
+            "SA": "[month] [year] مجلة فوج",
+            "IQ": "[month] [year] مجلة فوج",
+            "IR": "[month] [year] مجلة فوج",
+            "KW": "[month] [year] مجلة فوج",
+            "QA": "[month] [year] مجلة فوج"
         }
     }
 }
